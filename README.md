@@ -14,8 +14,13 @@
 
 **Talking about me:**
 
-- 💼 I’m a final year student in Data Science and Engineering from [Ecole Centrale Casablanca](http://www.centrale-casablanca.ma/fr/);
-- 🤔 My interests are with building Machine Learning and Deep Learning models and learning new concepts in the field of data science;
+- 💼 I’m a final year student in Data Science and Engineering from [Ecole Centrale Marseille/ Aix-Marseille University](https://iaaa.lis-lab.fr/);
+  
+- 🤔  Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques. I never stop learning.;
+  
+ 
+
+
 - 📫 Please email via SaadTazroute@gmail.com to reach me.
 
   
