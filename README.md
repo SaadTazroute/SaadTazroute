@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    A <b> Machine Learning Junior </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+     <b> Machine Learning Junior with strong theorical background </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
   </em>
  </p>
 
@@ -12,12 +12,12 @@
 
 <em>
 
-**Talking about me:**
 
 - 💼 I’m a Machine Learning Engineer from [Ecole Centrale Marseille/ Aix-Marseille University](https://iaaa.lis-lab.fr/);
   
-- 🤔  Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques. I never stop learning.;
-  
+- 🤔  Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques. I never stop learning;
+
+<!-- - 🤔  Interested with new technologies; -->
 
 - 📫 For business inquiries feel free to contact me : Saad.Tazroute@gmail.com 
 
