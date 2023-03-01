@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    A <b>Final year student </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> a huge Data Science enthusiast and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    A <b> Machine Learning Junior </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
   </em>
  </p>
 
@@ -14,14 +14,12 @@
 
 **Talking about me:**
 
-- 💼 I’m a final year student in Data Science and Engineering from [Ecole Centrale Marseille/ Aix-Marseille University](https://iaaa.lis-lab.fr/);
+- 💼 I’m a Machine Learning Engineer from [Ecole Centrale Marseille/ Aix-Marseille University](https://iaaa.lis-lab.fr/);
   
 - 🤔  Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques. I never stop learning.;
   
- 
 
-
-- 📫 Please email via SaadTazroute@gmail.com to reach me.
+- 📫 For business inquiries feel free to contact me : Saad.Tazroute@gmail.com 
 
   
   
