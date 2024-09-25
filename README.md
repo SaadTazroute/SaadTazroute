@@ -4,36 +4,72 @@
 
 <p>
   <em>
-     <b> Machine Learning Junior with strong theorical background </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+     <b>Data Engineer & Machine Learning Specialist with Cloud Expertise</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate <b>full-stack ML developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
   </em>
- </p>
+</p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Data Engineer GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <em>
 
+- 💼 Data Engineer at ThePlaceTowish, specializing in cloud-native solutions and ML systems
+- 🚀 Experienced in building end-to-end ML pipelines and serverless architectures
+- 🌐 Proficient in full-stack development, from backend services to ML model deployment
+- 📊 Passionate about solving complex data challenges and optimizing data ecosystems
+- 📫 For collaborations or inquiries, reach out to: Saad.Tazroute@gmail.com 
 
-- 💼 I’m a Machine Learning Engineer from [Ecole Centrale Marseille/ Aix-Marseille University](https://iaaa.lis-lab.fr/);
-  
-- 🤔  Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques. I never stop learning;
-
-<!-- - 🤔  Interested with new technologies; -->
-
-- 📫 For business inquiries feel free to contact me : Saad.Tazroute@gmail.com 
-
-  
-  
 <br/>
 </em>
 
-### Worked with
+## Technical Expertise
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="Tensorflow"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" title="AWS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title="TensorFlow"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="Django"></code>
 
+## Key Skills and Technologies
+
+- **Cloud Services**: AWS (SageMaker, Lambda, S3, RDS, CloudFormation, Glue)
+- **Machine Learning**: PyTorch, TensorFlow, Keras, Computer Vision, NLP, Time Series Analysis
+- **Data Engineering**: Data pipelines, ETL processes, Big Data handling
+- **Web Development**: Django, RESTful APIs, Microservices
+- **DevOps**: Docker, CI/CD, Git, AWS CodePipeline
+- **Databases**: SQL, NoSQL
+
+## Featured Projects
+
+### E-commerce Recommendation System Migration (ThePlaceTowish)
+- Spearheaded migration to AWS using microservices architecture
+- Implemented robust data pipeline for personalized product recommendations
+- Designed CI/CD pipeline for streamlined multi-stage deployments
+
+### Multilingual Document Processing System (Althea Consulting)
+- Developed OCR solution for handwritten Arabic documents using LSTM models
+- Implemented parallel processing pipeline with Langchain and AWS deployment
+
+### Celebrity Look-alike and Face Morphing App
+- Built CNN-based similarity search and StyleGAN3 face morphing
+- Deployed using Django, Heroku, and AWS
+
+### AI-Generated Art E-commerce Platform
+- Created platform for buying/selling AI-generated images and NFTs
+- Implemented with Django and AWS (RDS, S3, SageMaker)
+
+### Video Anomaly Detection System (Two-i)
+- Implemented advanced Deep Learning architectures (Encoder/Decoder, Convolutional LSTM)
+- Developed production-ready ML pipelines for object detection using YOLOv4
+- Utilized AWS SageMaker for model training and deployment
+
+## Professional Experience
+
+- **Data Engineer** at ThePlaceTowish (Oct 2023 - Present)
+- **Machine Learning Engineer (Freelance)** at Althea Consulting (Mar 2023 - Jun 2023)
+- **Data Scientist** at D3S: Data Science Strategic Services (Aug 2022 - Mar 2023)
+- **Machine Learning Engineer** at Two-i: Video Surveillance (Apr 2021 - Sep 2021)
+
+I'm always excited to tackle new challenges in data engineering, machine learning, and cloud computing. Let's connect and build innovative solutions together!
 
 ### Follow me
 
