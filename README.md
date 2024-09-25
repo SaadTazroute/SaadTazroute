@@ -18,8 +18,18 @@
 - 📊 Passionate about solving complex data challenges and optimizing data ecosystems
 - 📫 For collaborations or inquiries, reach out to: Saad.Tazroute@gmail.com 
 
-<br/>
 </em>
+
+## GitHub Stats
+
+<a href="https://github.com/saadtazroute">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadtazroute&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadtazroute&layout=compact&langs_count=8&theme=radical"/>
+</a>
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadtazroute&theme=dracula)
 
 ## Technical Expertise
 
@@ -68,6 +78,10 @@
 - **Machine Learning Engineer (Freelance)** at Althea Consulting (Mar 2023 - Jun 2023)
 - **Data Scientist** at D3S: Data Science Strategic Services (Aug 2022 - Mar 2023)
 - **Machine Learning Engineer** at Two-i: Video Surveillance (Apr 2021 - Sep 2021)
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saadtazroute&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm always excited to tackle new challenges in data engineering, machine learning, and cloud computing. Let's connect and build innovative solutions together!
 
